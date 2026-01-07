@@ -19,7 +19,7 @@ The specification requires that the TSA card is provisioned and contains:
 
 In addition, if returning a PK-PACS identifier, the specification requires one or more Trust Anchor public keys for verifying the CVC.
 
-TSA implements ISO/IEC 7816-4 APDU commands as specifreferenced in the Appendix.
+TSA implements ISO/IEC 7816-4 APDU commands as referenced in the Appendix.
 
 # 2. Authentication Flow
 
