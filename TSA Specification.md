@@ -1,6 +1,6 @@
 # Taglio Secure Authenticator Specification with CVC and PKOC
 
-Version 1.0.5 January 20, 2026
+Version 1.0.5 January 6, 2026
 
 ## Copyright Notice
 
