@@ -181,7 +181,7 @@ For more information on PKOC: https://psialliance.org/securecredentials/
 
 # Appendix A: TSA Commands
 
-## A1: Select Command
+## A1: SELECT Command
 
 ISO 7816‑4 `SELECT by AID`command, returns the Application Version Number   
 
