@@ -59,7 +59,7 @@ The CVC is a BER TLV Structure.  All data objects except the Certificate Extensi
 
 # 4. Extracting the Card Public Key
 
-The Card Oublic Key required to verify the TSA challenge-response signature is obtained from the 7F49 Public Key field inside the CVC Certificate Body (7F4E). 
+The Card Public Key required to verify the TSA challenge-response signature is obtained from the 7F49 Public Key field inside the CVC Certificate Body (7F4E). 
 
 The 06 Object Identifier inside 7F49 indicates the algorithm and parameter set used by the key:
 
